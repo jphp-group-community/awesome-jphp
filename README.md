@@ -1,6 +1,6 @@
 # Awesome JPHP
 
-A curated list of amazingly awesome JPHP libraries, resources and shiny things.
+Тщательно подобранный список удивительно потрясающих PHP-библиотек, ресурсов и других интересных вещей.
 
 ## Contents
 
